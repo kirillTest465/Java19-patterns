@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/j8jf4pgyvq7x3mpt?svg=true)](https://ci.appveyor.com/project/kirillTest465/java19-patterns)
